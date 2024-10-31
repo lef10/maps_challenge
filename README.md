@@ -1,2 +1,3 @@
-# maps_challenge
-2024_maps_challenge
+## README
+
+Repository for the maps challenge
